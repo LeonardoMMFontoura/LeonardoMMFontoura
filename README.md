@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!--Olá, Leonardo!
-
-Com base nas informações disponíveis no seu perfil do GitHub ([LeonardoMMFontoura](https://github.com/LeonardoMMFontoura)) e nas suas preferências, aqui está um modelo de `README.md` estilizado, bilíngue (Português e Inglês), com ícones e figurinhas para destacar suas informações e projetos.
-
----
-
-```markdown
 <h1 align="center">Olá, eu sou o Leonardo! 👋</h1>
 
 <p align="center">
@@ -129,8 +122,6 @@ Here are some of my most relevant projects:
     [Repositório | Repository](https://github.com/LeonardoMMFontoura/ProgramacaoParaWeb-Trabalho-2)
   </p>
 </details>
-
----
 
 ## 📈 Estatísticas do GitHub | GitHub Stats
 
