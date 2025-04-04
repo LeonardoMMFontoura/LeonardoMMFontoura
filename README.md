@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Olá! 👋</h1>
 
@@ -19,8 +18,8 @@
 ## 🧑‍💻 Sobre Mim | About Me
 
 - 🎓 **Formação Acadêmica | Education**:  
-  - *Bacharelado em Ciência da Computação pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).*  
-    *Bachelor's degree in Computer Science from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio).*
+  - *Bacharelado em Ciência da Computação pela PUC-Rio.*  
+    *Bachelor's degree in Computer Science from PUC-Rio.*
 
 - 💼 **Experiência Profissional | Professional Experience**:  
   - *Desenvolvedor no BTG Pactual, Rio de Janeiro.*  
@@ -28,7 +27,7 @@
 
 - 🌐 **Interesses | Interests**:  
   - *Desenvolvimento de software, segurança da informação, aprendizado de máquina aplicado à cibersegurança.*  
-    *Software development, information security, machine learning applied to cybersecurity.*
+    *Software development, information security, ML applied to cybersecurity.*
 
 ---
 
@@ -47,85 +46,68 @@
 
 ## 🚀 Projetos Destacados | Featured Projects
 
-Aqui estão alguns dos meus projetos mais relevantes:
+<details><summary>🔹 <strong>INF-1018-SOFTWARE-BASICO</strong></summary>
+<p>Projeto de Software Básico - Gerador Dinâmico de Funções.  
+Dynamic Function Generator in C.  
+🔗 [Repositório](https://github.com/LeonardoMMFontoura/INF-1018-SOFTWARE-BASICO)</p></details>
 
-Here are some of my most relevant projects:
+<details><summary>🔹 <strong>INF-1761-COMPUTACAO-GRAFICA</strong></summary>
+<p>Projetos gráficos com Jupyter Notebook.  
+Graphics projects with Jupyter.  
+🔗 [Repositório](https://github.com/LeonardoMMFontoura/INF-1761-COMPUTACAO-GRAFICA)</p></details>
 
-<details>
-  <summary>🔹 <strong>INF-1018-SOFTWARE-BASICO</strong></summary>
-  <p>
-    *Projeto de Software Básico - Gerador Dinâmico de Funções.*  
-    *Basic Software Project - Dynamic Function Generator.*
-    <br>
-    **Tecnologias | Technologies**: C
-    <br>
-    [Repositório | Repository](https://github.com/LeonardoMMFontoura/INF-1018-SOFTWARE-BASICO)
-  </p>
-</details>
+<details><summary>🔹 <strong>Java_Game_BlackJack</strong></summary>
+<p>Jogo de BlackJack em Java.  
+BlackJack game implemented in Java.  
+🔗 [Repositório](https://github.com/LeonardoMMFontoura/Java_Game_BlackJack)</p></details>
 
-<details>
-  <summary>🔹 <strong>INF-1761-COMPUTACAO-GRAFICA</strong></summary>
-  <p>
-    *Projetos relacionados à disciplina de Computação Gráfica.*  
-    *Projects related to the Computer Graphics course.*
-    <br>
-    **Tecnologias | Technologies**: Jupyter Notebook
-    <br>
-    [Repositório | Repository](https://github.com/LeonardoMMFontoura/INF-1761-COMPUTACAO-GRAFICA)
-  </p>
-</details>
+<details><summary>🔹 <strong>TADS-MODULAR</strong></summary>
+<p>Estrutura de Dados e Modularização em C.  
+Data Structures and Modular Design in C.  
+🔗 [Repositório](https://github.com/LeonardoMMFontoura/TADS-MODULAR)</p></details>
 
-<details>
-  <summary>🔹 <strong>Java_Game_BlackJack</strong></summary>
-  <p>
-    *Implementação do jogo BlackJack em Java.*  
-    *Implementation of the BlackJack game in Java.*
-    <br>
-    **Tecnologias | Technologies**: Java
-    <br>
-    [Repositório | Repository](https://github.com/LeonardoMMFontoura/Java_Game_BlackJack)
-  </p>
-</details>
+<details><summary>🔹 <strong>Linguagem-Provol-One</strong></summary>
+<p>Parser para linguagem fictícia com saída em C.  
+Parser for a fictional language (output in C).  
+🔗 [Repositório](https://github.com/LeonardoMMFontoura/Linguagem-Provol-One)</p></details>
 
-<details>
-  <summary>🔹 <strong>TADS-MODULAR</strong></summary>
-  <p>
-    *TADs de programação modular.*  
-    *Modular programming ADTs.*
-    <br>
-    **Tecnologias | Technologies**: C
-    <br>
-    [Repositório | Repository](https://github.com/LeonardoMMFontoura/TADS-MODULAR)
-  </p>
-</details>
+<details><summary>🔹 <strong>ProgramacaoParaWeb-Trabalho-2</strong></summary>
+<p>Projeto de backend e frontend para disciplina de Web.  
+Full-stack project for Web Programming.  
+🔗 [Repositório](https://github.com/LeonardoMMFontoura/ProgramacaoParaWeb-Trabalho-2)</p></details>
 
-<details>
-  <summary>🔹 <strong>Linguagem-Provol-One</strong></summary>
-  <p>
-    *Trabalho de Analisadores Léxicos e Sintáticos. Parser de uma definição de uma linguagem fictícia com saída em C.*  
-    *Lexical and Syntactic Analyzers project. Parser for a fictional language definition with output in C.*
-    <br>
-    **Tecnologias | Technologies**: C
-    <br>
-    [Repositório | Repository](https://github.com/LeonardoMMFontoura/Linguagem-Provol-One)
-  </p>
-</details>
+---
 
-<details>
-  <summary>🔹 <strong>ProgramacaoParaWeb-Trabalho-2</strong></summary>
-  <p>
-    *Repositório para entrega do segundo trabalho de Programação Para Web.*  
-    *Repository for the second Web Programming assignment.*
-    <br>
-    **Tecnologias | Technologies**: JavaScript, CSS, HTML, Python
-    <br>
-    [Repositório | Repository](https://github.com/LeonardoMMFontoura/ProgramacaoParaWeb-Trabalho-2)
-  </p>
-</details>
+## 🎨 Hobbies & Interesses Pessoais | Hobbies & Personal Interests
+
+🎵 **Música | Music**  
+Toco piano, violão e guitarra — música é uma das minhas maiores paixões.  
+I play piano, guitar and acoustic — music is one of my biggest passions.  
+🎹 🎸 🎶
+
+🎮 **Jogos | Gaming**  
+Adoro narrativas imersivas e jogos cooperativos.  
+I enjoy immersive narratives and co-op games.  
+👾 🎮 🕹️
+
+📚 **Leitura | Reading**  
+Leio sobre tecnologia, segurança, filosofia e ficção científica.  
+I read about tech, security, philosophy and sci-fi.  
+📖 💡 🧠
+
+✈️ **Viagens | Travel**  
+Gosto de viajar, conhecer trilhas e sair da cidade quando posso.  
+Love hiking and discovering new places.  
+🌄 🌍 🥾
+
+---
 
 ## 📈 Estatísticas do GitHub | GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoMMFontoura&show_icons=true&theme=tokyonight" alt="Leonardo's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoMMFontoura&show_icons=true&theme=tokyonight" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoMMFontoura&theme=tokyonight" alt="Leon 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoMMFontoura&theme=tokyonight" />
+</p>
+
+---
