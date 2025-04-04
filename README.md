@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Olá, eu sou o Leonardo! 👋</h1>
+<h1 align="center">Olá! 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leonardo-monteiro-/" target="_blank">
