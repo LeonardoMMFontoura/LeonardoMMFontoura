@@ -72,9 +72,9 @@ I am a **Backend Software Engineer** focused on building scalable, secure, and e
 
 ## 🎨 Além do Código | Beyond Coding
 
-- 🎹 **Music:** PT: Toco piano, violão e guitarra. | EN: I play piano, acoustic, and electric guitar.
-- 🛡️ **Cybersecurity:** PT: Entusiasta de CTFs e defesa de sistemas. | EN: CTF enthusiast and system defense.
-- ⛰️ **Outdoor:** PT: Gosto de trilhas e contato com a natureza. | EN: I enjoy hiking and connecting with nature.
+- 🎹 **Music:** **PT:** Toco piano, violão e guitarra. | **EN:** I play piano, acoustic, and electric guitar.
+- 🛡️ **Cybersecurity:** **PT:** Entusiasta de CTFs e defesa de sistemas. | **EN:** CTF enthusiast and system defense.
+- ⛰️ **Outdoor:** **PT:** Gosto de trilhas e contato com a natureza. | **EN:** I enjoy hiking and connecting with nature.
 
 ---
 
@@ -82,5 +82,9 @@ I am a **Backend Software Engineer** focused on building scalable, secure, and e
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LeonardoMMFontoura&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeonardoMMFontoura&theme=tokyonight" alt="GitHub Streak" height="180em" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMMFontoura&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180em" />
 </p>
