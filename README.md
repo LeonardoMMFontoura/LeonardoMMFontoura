@@ -37,9 +37,17 @@ I am a **Backend Software Engineer** focused on building scalable, secure, and e
 ### 🖥️ Backend & Languages
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=dotnet&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+
+### 🚀 Frameworks & Mobile
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![iOS](https://img.shields.io/badge/-iOS%20Development-000000?style=flat-square&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?style=flat-square&logo=swift&logoColor=F05138)
 
 ### ☁️ Infrastructure & Tools
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -51,8 +59,8 @@ I am a **Backend Software Engineer** focused on building scalable, secure, and e
 
 ## 🚀 Atividades & Projetos | Activities & Projects
 
-- **Automação e Dados:** Desenvolvimento de ferramentas para ingestão de dados e bots de monitoramento em tempo real utilizando Python.
-- **Desenvolvimento Mobile:** Exploração de Swift e ecossistema iOS para criação de aplicações focadas em métricas e redes sociais.
+- **Automação e Dados:** Desenvolvimento de ferramentas para ingestão de dados e bots de monitoramento em tempo real utilizando Python e Go.
+- **Desenvolvimento Mobile:** Criação de aplicações nativas para iOS (Swift/SwiftUI) e multiplataforma com React Native.
 - **Sistemas de Baixo Nível:** Implementação de geradores dinâmicos de funções e estruturas de dados otimizadas em C e Java.
 - **Segurança:** Estudos aplicados em vulnerabilidades de software e segurança em ambientes de nuvem.
 
