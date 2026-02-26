@@ -17,14 +17,14 @@
 ## 🧑‍💻 Sobre Mim | About Me
 
 **PT-BR:**
-Sou um **Engenheiro de Software Backend** focado em construir sistemas escaláveis, seguros e eficientes. Atualmente, sou mestrando em Engenharia de Software na **PUC-Rio**, onde aprofundo meus conhecimentos em arquitetura de sistemas e cibersegurança.
+Sou um **Engenheiro de Software Backend** focado em construir sistemas escaláveis, seguros e eficientes. Atualmente, sou mestrando em Engenharia de Software na **PUC-Rio**, onde aprofundo meus conhecimentos em arquitetura de sistemas e computação no geral.
 
 * 🎓 Mestrando em Engenharia de Software na PUC-Rio.
 * ☁️ Certificado **AWS Cloud Practitioner**.
 * 🚀 Interessado em: System Design, Algoritmos de alta performance e Cloud Computing.
 
 **EN:**
-I am a **Backend Software Engineer** focused on building scalable, secure, and efficient systems. Currently, I am a Master's student in Software Engineering at **PUC-Rio**, deepening my knowledge in system architecture and cybersecurity.
+I am a **Backend Software Engineer** focused on building scalable, secure, and efficient systems. Currently, I am a Master's student in Software Engineering at **PUC-Rio**, deepening my knowledge in system architecture and computing in general.
 
 * 🎓 M.Sc. Student in Software Engineering at PUC-Rio.
 * ☁️ **AWS Certified Cloud Practitioner**.
